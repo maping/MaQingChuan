@@ -36,7 +36,7 @@ brew update
 
 ### 3.2 GitHub Desktop 基本使用
 clone 一个远程 repository
->注意：GitHub Desktop 默认克隆的地方是 /Users/vmaping/Documents/GitHub/<YOUR_RESPOSITORY>
+>注意：GitHub Desktop 默认克隆的地方是 /Users/<USER_NAME>/Documents/GitHub/<YOUR_RESPOSITORY>
 
 Fetch origin
 
