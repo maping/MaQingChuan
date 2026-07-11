@@ -1,0 +1,37 @@
+# 分布式版本控制系统
+
+## 1. [Git](https://git-scm.com/)
+
+### 1.1 安装 Git (macOS‌)（可选）
+
+#### 1.1.1 [Homebrew](https://brew.sh/)
+
+#### 1.1.2 安装 Git 
+
+## 2. [GitHub](https://github.com/)
+
+### 2.1 注册并登录 GitHub
+
+### 2.2 创建第一个 Repository
+
+### 2.3 编写第一个 README
+
+### 2.4 Markdown 语法介绍
+
+## 3. [GitHub Desktop](https://desktop.github.com) 
+
+### 3.1 安装 GitHub Desktop (macOS‌)
+
+### 3.2 GitHub Desktop 基本使用
+
+## 4. 多人协作 Repository（可选）
+
+## 参考文档
+- [Git 教程【廖雪峰】](https://liaoxuefeng.com/books/git/introduction/index.html) ✅ 
+  - 非常系统和全面的介绍 Git
+- [GitHub 新手指南：星球最强资源库](https://www.bilibili.com/video/BV14qh8ztEhv/) ✅
+  - 很好的 GitHub 入门级介绍
+- [如何发布你的第一个 GitHub 项目？](https://www.bilibili.com/video/BV1H5xeeQELn) ✅
+  - 可以直接拖拽本地目录到 Repository，酷！
+- [GitHub 管理多人协作项目](https://www.bilibili.com/video/BV1o7411U7j6/) ✅
+
