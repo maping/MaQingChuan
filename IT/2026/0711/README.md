@@ -28,9 +28,10 @@
 
 ### 3.1 安装 Visual Studio Code
 
-### 3.2 配置 Visual Studio Code 
+### 3.2 配置 Visual Studio Code 源代码管理（GitHub）
 
 ### 3.3 升级 VS Code（未及）
+Code -> Check for Updates...
 
 ## 4. 多人协作 Repository（未及）
 
