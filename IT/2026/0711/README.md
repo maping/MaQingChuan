@@ -35,8 +35,8 @@ brew update
 ### 3.1 安装 GitHub Desktop (macOS‌)
 
 ### 3.2 GitHub Desktop 基本使用
-clone 一个远程 repository
->注意：GitHub Desktop 默认克隆的地方是 /Users/<USER_NAME>/Documents/GitHub/<YOUR_RESPOSITORY>
+clone 一个远程 repository 到本机
+>注意：GitHub Desktop 默认克隆到的本机目录是 /Users/<USER_NAME>/Documents/GitHub/<YOUR_RESPOSITORY>
 
 Fetch origin
 
