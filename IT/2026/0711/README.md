@@ -4,7 +4,14 @@
 
 ### 1.1 安装 Git (macOS‌)
 
+#
+
 #### 1.1.1 安装 [Homebrew](https://brew.sh/)
+```shell
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+
 
 #### 1.1.2 使用 Homebrew 安装 Git 
 
