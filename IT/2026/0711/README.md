@@ -40,6 +40,6 @@
 - [GitHub 新手指南：星球最强资源库](https://www.bilibili.com/video/BV14qh8ztEhv/) ✅
   - 很好的 GitHub 入门级介绍
 - [如何发布你的第一个 GitHub 项目？](https://www.bilibili.com/video/BV1H5xeeQELn) ✅
-  - 可以直接拖拽本地目录到 Repository，酷！
+  - 点击 Add file -> Upload files，可以直接拖拽本地目录上传到 Repository，酷！
 - [GitHub 管理多人协作项目](https://www.bilibili.com/video/BV1o7411U7j6/) ✅
 
