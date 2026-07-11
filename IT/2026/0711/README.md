@@ -12,7 +12,7 @@
 ```shell
 brew install git
 ```
-#### 1.1.2 使用 Homebrew 更新 Git（未及）
+#### 1.1.2 使用 Homebrew 更新 Git
 ```shell
 git --version
 brew update
@@ -42,10 +42,8 @@ brew update
 
 ### 3.2 配置 Visual Studio Code 源代码管理（GitHub）
 
-### 3.3 升级 VS Code（未及）
+### 3.3 升级 VS Code
 Code -> Check for Updates...
-
-## 4. 多人协作 Repository（未及）
 
 ## 参考文档
 - [Git 教程【廖雪峰】](https://liaoxuefeng.com/books/git/introduction/index.html) ✅ 
@@ -54,5 +52,3 @@ Code -> Check for Updates...
   - 很好的 GitHub 入门级介绍
 - [如何发布你的第一个 GitHub 项目？](https://www.bilibili.com/video/BV1H5xeeQELn) ✅
   - 点击 Add file -> Upload files，可以直接拖拽本地目录上传到 Repository，酷！
-- [GitHub 管理多人协作项目](https://www.bilibili.com/video/BV1o7411U7j6/) ✅
-
