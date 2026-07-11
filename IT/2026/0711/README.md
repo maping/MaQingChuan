@@ -6,7 +6,7 @@
 
 #### 1.1.1 安装 [Homebrew](https://brew.sh/)
 
-#### 1.1.2 安装 Git 
+#### 1.1.2 使用 Homebrew 安装 Git 
 
 ## 2. [GitHub](https://github.com/)
 
