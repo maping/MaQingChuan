@@ -10,10 +10,10 @@
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-
-
-
 #### 1.1.2 使用 Homebrew 安装 Git 
+```shell
+brew install git
+```
 
 ## 2. [GitHub](https://github.com/)
 
