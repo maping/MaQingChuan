@@ -26,7 +26,7 @@ brew update
 
 ### 2.2 创建第一个 Repository
 
-### 2.3 编写第一个 README
+### 2.3 编写第一个 README.md
 
 ### 2.4 Markdown 语法介绍
 
@@ -35,6 +35,13 @@ brew update
 ### 3.1 安装 GitHub Desktop (macOS‌)
 
 ### 3.2 GitHub Desktop 基本使用
+clone 一个远程 repository
+
+修改内容
+
+commit
+
+push 到远程 repository
 
 ## 3. [Visual Studio Code](https://code.visualstudio.com/) 
 
