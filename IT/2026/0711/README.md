@@ -24,15 +24,15 @@
 
 ### 3.2 GitHub Desktop 基本使用
 
-## 3. 安装和配置 VS Code 
+## 3. [Visual Studio Code](https://code.visualstudio.com/) 
 
-### 3.1 安装 VS Code
+### 3.1 安装 Visual Studio Code
 
-### 3.2 配置 VS Code
+### 3.2 配置 Visual Studio Code 
 
-### 3.3 升级 VS Code
+### 3.3 升级 VS Code（未及）
 
-## 4. 多人协作 Repository（可选）
+## 4. 多人协作 Repository（未及）
 
 ## 参考文档
 - [Git 教程【廖雪峰】](https://liaoxuefeng.com/books/git/introduction/index.html) ✅ 
