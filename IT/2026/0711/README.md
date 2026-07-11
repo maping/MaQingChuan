@@ -19,9 +19,6 @@ brew update
 ‌brew upgrade git
 ‌git --version
 ```
-‌：brew update
-‌升级 Git‌：brew upgrade git
-‌验证版本‌：git --version
 
 ## 2. [GitHub](https://github.com/)
 
