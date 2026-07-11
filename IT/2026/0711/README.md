@@ -38,17 +38,17 @@ brew update
 clone 一个远程 repository
 >注意：GitHub Desktop 默认克隆的地方是 /Users/vmaping/Documents/GitHub/<YOUR_RESPOSITORY>
 
-Fetch orgin
+Fetch origin
 
 用 VS Code 打开 repository，修改内容并保存
 
 填写 Summary (required)
 
-Fetch orgin
+Fetch origin
 
 Commit
 
-push 到远程 repository
+Push origin
 
 ## 3. [Visual Studio Code](https://code.visualstudio.com/) 
 
