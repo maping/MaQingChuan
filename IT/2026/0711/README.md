@@ -36,10 +36,17 @@ brew update
 
 ### 3.2 GitHub Desktop 基本使用
 clone 一个远程 repository
+>注意：GitHub Desktop 默认克隆的地方是 /Users/vmaping/Documents/GitHub/<YOUR_RESPOSITORY>
 
-修改内容
+Fetch orgin
 
-commit
+用 VS Code 打开 repository，修改内容并保存
+
+填写 Summary (required)
+
+Fetch orgin
+
+Commit
 
 push 到远程 repository
 
