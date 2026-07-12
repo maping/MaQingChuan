@@ -80,8 +80,16 @@ clone 一个远程 repository 到本机
 ### 3.1 安装 Visual Studio Code
 
 ### 3.2 配置 Visual Studio Code 源代码管理（GitHub）
+Clone Git Repository...
 
-### 3.3 升级 VS Code
+Clone Repository -> Clone from GitHub ｜ 也可以是其它 Git Repository，比如 GitLab
+- 登录 GitHub 账号
+- Authorize Visual Studio Code
+- Select a Repository Destination
+
+### 3.3 修改代码，并推送到远程 Repository
+
+### 3.4 升级 VS Code
 Code -> Check for Updates...
 
 ## 参考文档
