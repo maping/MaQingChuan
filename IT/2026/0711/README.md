@@ -95,7 +95,7 @@ Clone Repository -> Clone from GitHub ｜ 也可以是其它 Git Repository，�
 ```shell
 git clone https://github.com/maping/Language.git /Users/vmaping/vscode/Language --progress
 fatal: unable to access 'https://github.com/maping/Language.git/': Failed to connect to github.com port 443 after 10797 ms: Couldn't connect to server
-```shell
+```
 
 ### 3.4 升级 VS Code
 Code -> Check for Updates...
