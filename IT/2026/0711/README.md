@@ -91,3 +91,5 @@ Code -> Check for Updates...
   - 很好的 GitHub 入门级介绍
 - [如何发布你的第一个 GitHub 项目？](https://www.bilibili.com/video/BV1H5xeeQELn) ✅
   - 点击 Add file -> Upload files，可以直接拖拽本地目录上传到 Repository，酷！
+- [Visual Studio Code 中配置使用 Git](https://www.bilibili.com/video/BV1ti73zuEVF/) ✅
+
