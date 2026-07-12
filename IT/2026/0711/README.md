@@ -42,6 +42,14 @@ git config --global user.email "maping930883@hotmail.com"
 	email = maping930883@hotmail.com
 ```
 
+### 1.3 拉取 Public Repository
+```shell
+mkdir git
+cd git
+git clone https://github.com/maping/Language.git
+```
+>说明：建立 git 目录，表明该目录都是 git 命令行拉取的 Repository
+
 ## 2. [GitHub](https://github.com/)
 
 ### 2.1 注册并登录 GitHub
