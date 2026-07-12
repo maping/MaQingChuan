@@ -26,6 +26,22 @@ brew update
 ‌git --version
 ```
 
+### 1.2 配置 Git
+因为 Git 是分布式版本控制系统，所以，每个机器都必须自报家门：user.name 和 user.email。
+>问题：如果有人故意冒充别人怎么办？
+```shell
+git config --global user.name "maping"
+git config --global user.email "maping930883@hotmail.com"
+```
+>说明：--global 参数，表示你这台机器上所有的 Git 仓库都会使用这个配置，当然也可以对某个仓库指定不同的 user.name 和 user.email。
+
+上述命令会生成 .gitconfig 文件，内容如下：
+```txt
+[user]
+	name = maping
+	email = maping930883@hotmail.com
+```
+
 ## 2. [GitHub](https://github.com/)
 
 ### 2.1 注册并登录 GitHub
