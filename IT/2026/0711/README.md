@@ -44,17 +44,12 @@ brew update
 clone 一个远程 repository 到本机
 >注意：GitHub Desktop 默认克隆到的本机目录是 /Users/<USER_NAME>/Documents/GitHub/<YOUR_RESPOSITORY>
 
-Fetch origin
-
-用 VS Code 打开 repository，修改内容并保存
-
-填写 Summary (required)
-
-Fetch origin
-
-Commit
-
-Push origin
+- 修改代码前，先 Fetch origin 确保把最新的版本拉到本地
+- 用 VS Code 打开 repository，修改内容并保存
+- 填写 Summary (required)
+- 提交代码前，再 Fetch origin 一次，看看有没有人在此期间更新代码
+- Commit
+- Push origin
 
 ## 3. [Visual Studio Code](https://code.visualstudio.com/) 
 
