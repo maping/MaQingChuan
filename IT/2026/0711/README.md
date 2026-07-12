@@ -8,7 +8,13 @@
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-#### 1.1.2 使用 Homebrew 安装 Git 
+
+#### 1.1.2 升级 Homebrew
+```shell
+brew upgrade
+```
+
+#### 1.1.3 使用 Homebrew 安装 Git 
 ```shell
 brew install git
 ```
