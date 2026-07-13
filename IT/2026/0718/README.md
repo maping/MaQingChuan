@@ -44,9 +44,16 @@ Python 官方安装包有一个非常贴心的设计：/Library/Frameworks/Pytho
 - 安装 Cstrap 出品的 python-snippets 插件
 
 ## 3. 创建第一个 Python 程序：helloworld.py
+在 Visual Studiio Code 中，新建一个文件 helloworld.py，内容如下：
 ```python
 print("Hello, World!")
 ```
+右键 helloworld.py 文件，选择 Run Python -> Run Python File in Terminal ｜ 也可以直接点击 右上角 ▶️ 运行程序。
+
+## 3. [if 练习（1）](https://www.bilibili.com/video/BV1hW41197sB)
+
+## 4. [if 练习（2）](https://www.bilibili.com/video/BV1hW41197sB)
+
 
 ## 参考文档
 - [Visual Studiio Code 中配置 Python 环境](https://www.bilibili.com/video/BV1TN411K7sn/)
