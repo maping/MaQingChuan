@@ -39,19 +39,14 @@ macOS 默认的 Shell 是 Zsh，因此 .zprofile 在登录时加载且比 .zshrc
 Python 官方安装包有一个非常贴心的设计：/Library/Frameworks/Python.framework/Versions/ 目录下，除了具体的版本号文件夹（如 3.13、3.14），还会有一个 Current 符号链接，它永远指向你安装的最新版本。
 
 ## 2. 在 Visual Studiio Code 中配置 Python 环境
-- 创建 hello.py 文件
-- 常用插件安装
-  - 安装 Microsoft 出品的 Python 系列插件
-  - 安装 Cstrap 出品的 python-snippets 插件
-    - 在 hello.py 中，输入 def，按下 Tab 键，自动输出函数定义框架，按 Tab 键切换到每个项 
-- 修改配置
-  - 括号自动补全
-    - 修改配置文件：Settings -> Text Editor -> 向下滚动，找到 Edit in settings.json
-      - "python.analysis.completeFunctionParens": true,（默认已有）
-    - 输入 print，选择 print 函数，会自动出现（），并且光标在括号中
-  - 设置默认的 terminal 为 cmd
-    - 点击右下角的 + 下拉列表，选择 Select Default Profile，选择 Command Prompt
-    - 右键 .py 文件，选择 Run Python -> Run Python File in Python Terminal，确认出现的 cmd terminal
+安装常用 Python 插件
+- 安装 Microsoft 出品的 Python 系列插件
+- 安装 Cstrap 出品的 python-snippets 插件
+
+## 3. 创建第一个 Python 程序：helloworld.py
+```python
+print("Hello, World!")
+```
 
 ## 参考文档
 - [Visual Studiio Code 中配置 Python 环境](https://www.bilibili.com/video/BV1TN411K7sn/)
