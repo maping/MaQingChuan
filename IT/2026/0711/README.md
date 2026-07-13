@@ -102,7 +102,6 @@ Code -> Check for Updates...
 - 观看视频 [GitHub 新手指南：星球最强资源库](https://www.bilibili.com/video/BV14qh8ztEhv/) ✅
   - 很好的 GitHub 入门级介绍
 
-
 ## 参考文档
 - [Git 教程【廖雪峰】](https://liaoxuefeng.com/books/git/introduction/index.html) ✅ 
   - 非常系统和全面的介绍 Git
