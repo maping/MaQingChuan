@@ -50,9 +50,9 @@ print("Hello, World!")
 ```
 右键 helloworld.py 文件，选择 Run Python -> Run Python File in Terminal ｜ 也可以直接点击 右上角 ▶️ 运行程序。
 
-## 3. [if 练习（1）](https://www.bilibili.com/video/BV1hW41197sB)
+## 3. [if 练习（1）](https://www.bilibili.com/video/BV1hW41197sB?p=44)
 
-## 4. [if 练习（2）](https://www.bilibili.com/video/BV1hW41197sB)
+## 4. [if 练习（2）](https://www.bilibili.com/video/BV1hW41197sB?p=45)
 
 
 ## 参考文档
