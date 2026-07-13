@@ -54,6 +54,8 @@ print("Hello, World!")
 
 ## 4. [if 练习（2）](https://www.bilibili.com/video/BV1hW41197sB?p=45)
 
+## 作业
+看视频 [学了Python能干什么?](https://www.bilibili.com/video/BV1WY411n7Zu)
 
 ## 参考文档
 - [Visual Studiio Code 中配置 Python 环境](https://www.bilibili.com/video/BV1TN411K7sn/)
