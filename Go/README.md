@@ -10,10 +10,6 @@
 - 彼强自保‌：对方势强时赶快求活或走畅孤棋，不要以弱击强。
 - 势孤取和‌：己方势力薄弱时避免硬拼，争取减少损失。‌‌‌
 
-# Vadim 和 GoMagic 团队
-- [做死活题的正确方法](https://www.bilibili.com/video/BV1xkpweaEG1/)
-- [如何通过托和扳提升你的围棋水平](https://www.bilibili.com/video/BV1d9B6YkEtF)
-
 # 围棋术语
 - 叫吃/打吃 atari
 - 反打吃 counter-atari
