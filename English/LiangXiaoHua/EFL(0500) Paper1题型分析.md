@@ -28,6 +28,7 @@
   - 需要从每个段落找三个单词或短语作为例子来支持你的观点
   - 200-300 字
     
-## Question 3：读 Text C，假设你是主人公，根据题目假设，写一篇 report｜speech，[25 marks（15 marks 内容，10 marks 质量）]
+## Question 3：读 Text C，假设你是主人公，写一篇 report｜speech，[25 marks（15 marks 内容，10 marks 质量）]
+- 根据题目假设
 - 250-350 字
 
