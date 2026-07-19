@@ -31,4 +31,3 @@
 ## Question 3：读 Text C，写一篇作文 [25 marks（15 marks 内容，10 marks 质量）]
 - 假设你是主人公，根据题目设定，写一篇 report｜speech
 - 250-350 字
-
