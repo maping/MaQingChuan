@@ -3,7 +3,7 @@
 
 ## Question 1：读 Text A，回答以下问题 [30 marks]
 - (a) 事实问答，从原文中找答案即可 [1 mark]
-- (b) 用自己的语言，解释文中出现的短语 [4 marks]    
+- (b) 用自己的语言，解释文中出现的短语 [4 marks]
   - (i) 短语1 [2 marks]
   - (ii) 短语2 [2 marks]
 - (c) 读指定的一个段落，回答问题，需要给出两个证据（原因，方法...） [2 marks]
@@ -28,7 +28,7 @@
   - 需要从每个段落找三个单词或短语作为例子来支持你的观点
   - 200-300 字
     
-## Question 3：读 Text C，假设你是主人公，写一篇 report｜speech，[25 marks（15 marks 内容，10 marks 质量）]
-- 根据题目假设
+## Question 3：读 Text C，写一篇作文 [25 marks（15 marks 内容，10 marks 质量）]
+- 假设你是主人公，根据题目设定，写一篇 report｜speech
 - 250-350 字
 
