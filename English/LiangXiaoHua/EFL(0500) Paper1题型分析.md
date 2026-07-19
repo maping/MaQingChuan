@@ -1,5 +1,5 @@
 # EFL(0500) Paper 1 Reading 题型分析 
-总共 80分 
+总共 80 marks 
 
 ## Question 1：读 Text A，回答以下问题 [30 marks]
 - (a) 事实问答，从原文中找答案即可 [1 mark]
