@@ -1,7 +1,9 @@
-# EFL(0500) Paper 1 Reading 题型分析 
+# EFL(0500) Paper 1
+
+## 1. EFL(0500) Paper 1 Reading 题型分析 
 总共 80 marks 
 
-## Question 1：读 Text A，回答以下问题 [30 marks]
+### 1.1 Question 1：读 Text A，回答以下问题 [30 marks]
 - (a) 事实问答，从原文中找答案即可 [1 mark]
 - (b) 用自己的语言，解释文中出现的短语 [4 marks]
   - (i) 短语1 [2 marks]
@@ -14,7 +16,7 @@
 - (f) 读 Text B，用自己的话写一篇 Summary 回答问题，[15 marks（10 marks 内容，5 marks 质量）]
   - 不超过 120字  
 
-## Question 2：读 Text C，回答以下问题 [25 marks]
+### 1.2  Question 2：读 Text C，回答以下问题 [25 marks]
 - (a) 从文中找一个单词或短语，意思和句中的下划线短语相同 [4 marks]
   - (i) 下划线短语1 [1 mark]
   - (ii) 下划线短语2 [1 mark]
@@ -29,13 +31,13 @@
   - 需要从每个段落找三个单词或短语作为例子来支持你的观点
   - 200-300 字
     
-## Question 3：读 Text C，写一篇作文 [25 marks（15 marks 内容，10 marks 质量）]
+### 1.3 Question 3：读 Text C，写一篇作文 [25 marks（15 marks 内容，10 marks 质量）]
 - 假设你是主人公，根据题目设定，写一篇 report｜speech
 - 250-350 字
 
-## 每次课前预习作业和课后作业，以及存档方式
-- 1️⃣ 每周二之前，小梁老师把 PDF 格式的文档（课文和答题）给到 晴川爸爸
-- 2️⃣ 晴川爸爸把  PDF 格式的文档（课文和答题）转成 Word 格式给到 晴川
+## 2. 每次课前作业、上课内容 和 课后作业
+- 1️⃣ 每周二之前，小梁老师 把 PDF 格式的文档（课文和答题）给到 晴川爸爸
+- 2️⃣ 每周三之前，晴川爸爸 把 PDF 格式的文档（课文和答题）转成 Word 格式给到 晴川
 - 3️⃣ 课前作业：
   - 晴川 预习课文Text A、Text B、Text C ，并做如下事情
     - 在课文 word 文档中，把不认识的单词用 蓝色 标出来
@@ -43,8 +45,14 @@
       - Question 1 (a)(b)(c)(d)
       - Question 2 (a)(b)
   - 两个 Word 文档（课文和答题），上课前要提交给 晴川爸爸和小梁老师
-- 4️⃣ 小梁老师上课带领 晴川 阅读理解 Text B、Text C，然后课上批改并讲解 Question 2 (a)(b)
-- 5️⃣ 晴川爸爸上课带领 晴川 阅读理解 Text A，然后课上批改并讲解 Question 1 (a)(b)(c)(d)
+- 4️⃣ 上课内容：
+  - 小梁老师
+    - 讲解上次作业的作文部分：Text B 的 Summary 和 Question 2 (c)(d) 部分
+    - 讲解新预习的阅读理解 Text B、Text C
+    - 讲解新预习的阅读理解的 Question 2 (a)(b) 部分
+  - 晴川爸爸
+    - 讲解新预习的阅读理解 Text A
+    - 讲解 Question 1 (a)(b)(c)(d) 部分
 - 6️⃣ 课后作业：
   - Question 1 (f)，即 Text B 的 Summary，请抄写在本上，然后拍照给 晴川爸爸和小梁老师
   - Question 2 (c)(d)，请抄写在本上，然后拍照给 晴川爸爸和小梁老师
