@@ -46,5 +46,5 @@
 - 4️⃣ 小梁老师上课带领 晴川 阅读理解 Text B、Text C，然后课上批改并讲解 Question 2 (a)(b)
 - 5️⃣ 晴川爸爸上课带领 晴川 阅读理解 Text A，然后课上批改并讲解 Question 1 (a)(b)(c)(d)
 - 6️⃣ 课后作业：
-  - Question 1 (f)，即 Text B 的 Summy，请抄写在本上，然后拍照给 晴川爸爸和小梁老师
+  - Question 1 (f)，即 Text B 的 Summary，请抄写在本上，然后拍照给 晴川爸爸和小梁老师
   - Question 2 (c)(d)，请抄写在本上，然后拍照给 晴川爸爸和小梁老师
