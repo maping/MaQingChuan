@@ -54,5 +54,6 @@
     - 讲解新预习的阅读理解 Text A
     - 讲解 Question 1 (a)(b)(c)(d) 部分
 - 6️⃣ 课后作业：
-  - Question 1 (f)，即 Text B 的 Summary，请抄写在本上，然后拍照给 晴川爸爸和小梁老师
-  - Question 2 (c)(d)，请抄写在本上，然后拍照给 晴川爸爸和小梁老师
+  - Question 1 (f)，即 Text B 的 Summary，请写在 答题Word 文档中，然后给 晴川爸爸和小梁老师
+  - Question 2 (c)，请写在 答题Word 文档中，然后给 晴川爸爸和小梁老师
+  - Question 2 (d)，请抄写在本上，然后拍照给 晴川爸爸和小梁老师
