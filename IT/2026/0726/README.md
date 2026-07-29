@@ -63,25 +63,6 @@ while i < 1000:
     i += 1
 ```
 
-```python
-i = 1001
-while i > 1000 and i < 10000 :
-    # 假设，i的千位数是a，百位数是b，十位数c，个位数d
-    # 求i的千位数
-    a = i // 1000 # 当使用"//"进行除法运算时，它会返回商的整数部分，舍去小数点后的数值
-    # 求i的百位数
-    b = i // 100 % 10 
-    # 求i的十位数
-    c = i // 10 % 10
-    # 求i的个位数字
-    d = i % 10
-    #print(i , a , b , c)
-    
-    # 判断i是否是水仙花数
-    if a**4 + b**4 + c**4 + d**4 == i :
-        print(i)
-    i += 1
-```
 ## 3. [质数](https://www.bilibili.com/video/BV1hW41197sB?p=49)
 
 ```python
@@ -119,4 +100,6 @@ else :
 ## 6. [质数练习的第一次优化](https://www.bilibili.com/video/BV1hW41197sB?p=53)
 
 ## 7. [质数练习的第二次优化](https://www.bilibili.com/video/BV1hW41197sB?p=54)
+
+## 8. 思考：你能进一步优化质数练习吗？
 
