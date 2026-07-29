@@ -101,3 +101,5 @@ else :
 
 ## 7. [质数练习的第二次优化](https://www.bilibili.com/video/BV1hW41197sB?p=54)
 
+## 8. 思考：你能进一步优化质数练习吗？
+
