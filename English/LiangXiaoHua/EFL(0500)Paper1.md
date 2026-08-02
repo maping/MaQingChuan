@@ -42,7 +42,7 @@
   - 晴川 预习课文Text A、Text B、Text C ，并做如下事情
     - 在课文 word 文档中，把不认识的单词用 蓝色 标出来
     - 在答题 word 文档中，回答如下问题：
-      - Question 1 (a)(b)(c)(d)
+      - Question 1 (a)(b)(c)(d)(e)
       - Question 2 (a)(b)
   - 两个 Word 文档（课文和答题），上课前要提交给 晴川爸爸和小梁老师
 - 4️⃣ 上课内容：
@@ -52,7 +52,7 @@
     - 讲解新预习的阅读理解的 Question 2 (a)(b) 部分
   - 晴川爸爸
     - 讲解新预习的阅读理解 Text A
-    - 讲解 Question 1 (a)(b)(c)(d) 部分
+    - 讲解 Question 1 (a)(b)(c)(d)(e)部分
 - 6️⃣ 课后作业：
   - Question 1 (f)，即 Text B 的 Summary，请写在 答题Word 文档中，然后给 晴川爸爸和小梁老师
   - Question 2 (c)，请写在 答题Word 文档中，然后给 晴川爸爸和小梁老师
