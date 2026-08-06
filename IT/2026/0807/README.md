@@ -1,4 +1,5 @@
-# 1. 作业讲解：Suppose that w, x, y, z,(x + y),(x + z),(234 + z), and (234 − z) are 8 different prime numbers. If w + x + y = 234, and each of y and z is less than 50, the value of w − y is
+# 1. 作业讲解：试着编程解答这道题
+Suppose that w, x, y, z,(x + y),(x + z),(234 + z), and (234 − z) are 8 different prime numbers. If w + x + y = 234, and each of y and z is less than 50, the value of w − y isSuppose that w, x, y, z,(x + y),(x + z),(234 + z), and (234 − z) are 8 different prime numbers. If w + x + y = 234, and each of y and z is less than 50, the value of w − y is
 
 # 2. 列表
 
