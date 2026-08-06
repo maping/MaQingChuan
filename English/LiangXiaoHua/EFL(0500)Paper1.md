@@ -47,8 +47,8 @@
   - 两个 Word 文档（课文和答题），上课前要提交给 晴川爸爸和小梁老师
 - 4️⃣ 上课内容：
   - 小梁老师
-    - 讲解上次作业的作文部分：Text B 的 Summary 和 Question 2 (c)(d) 部分
-    - 讲解新预习的阅读理解 Text B、Text C
+    - 讲解上次作业的作文部分：Text B 的 Summary 和 Text C 的 Question 2 (c)(d) 部分
+    - 讲解新预习的阅读理解 Text C 文章，为了更好地做 Question 2 (c)(d) 部分作业
     - 讲解新预习的阅读理解的 Question 2 (a)(b) 部分
   - 晴川爸爸
     - 讲解新预习的阅读理解 Text A
