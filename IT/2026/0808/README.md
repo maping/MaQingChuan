@@ -79,7 +79,7 @@ while x < 300 :
     if is_prime(x) :
         #print("x=",x)
         y = 2 # 重新初始化 y，思考一下为什么要初始化？
-        while y > 1 and y < 50 :
+        while y < 50 :
             if is_prime(y) and is_prime(x+y) :
                 #print("y=",y)
                 z = 2 # 重新初始化 z，思考一下为什么要初始化？
