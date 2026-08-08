@@ -75,7 +75,7 @@ z = 2
 w = 2
 
 # 循环遍历各个变量
-while x > 1 and x < 300 :
+while x < 300 :
     if is_prime(x) :
         #print("x=",x)
         y = 2 # 重新初始化 y，思考一下为什么要初始化？
@@ -83,11 +83,11 @@ while x > 1 and x < 300 :
             if is_prime(y) and is_prime(x+y) :
                 #print("y=",y)
                 z = 2 # 重新初始化 z，思考一下为什么要初始化？
-                while z > 1 and z < 50 and y != z : # 思考一下为什么要加 y != z
+                while z < 50 and z != y : # 思考一下为什么要加 z != y
                     if is_prime(z) and is_prime(x+z) and is_prime(234+z) and is_prime(234-z) :
                         # print("z=",z)
                         w = 2 # 重新初始化 w，思考一下为什么要初始化？
-                        while w > 1 and w < 300 :
+                        while w < 300 :
                             if is_prime(w) :                  
                                 if w + x + y == 234 :
                                     print("="*10)
@@ -109,7 +109,7 @@ z= 5
 w= 191
 w-y= 150
 ```
->重要说明：不加 `y != z` 会导致有三组答案
+>重要说明：不加 `z != y` 会导致有三组答案
 ```console
 ========== (x + y) 和 z 相等，不符合题目条件要求
 x= 2
@@ -130,7 +130,7 @@ z= 5
 w= 191
 w-y= 150
 ```
->说明：这里没有增加其它的这些数都是不同的质数判断，是因为只加`y != z` 已经得出唯一正确答案了。
+>说明：这里没有增加其它的这些数都是不同的质数判断，是因为只加`z != y` 已经得出唯一正确答案了。
 
 # 2. 列表
 
@@ -142,4 +142,3 @@ w-y= 150
 看以下视频
 - 1️⃣[EMS 项目-添加员工](https://www.bilibili.com/video/BV1hW41197sB?p=65)
 - 2️⃣[EMS 项目-删除员工](https://www.bilibili.com/video/BV1hW41197sB?p=66)
-
