@@ -75,7 +75,7 @@ z = 2
 w = 2
 
 # 循环遍历各个变量
-while x < 229 :
+while x < 300 :
     if is_prime(x) :
         #print("x=",x)
         y = 2 # 重新初始化 y，思考一下为什么要初始化？
@@ -87,7 +87,7 @@ while x < 229 :
                     if is_prime(z) and is_prime(x+z) and is_prime(234+z) and is_prime(234-z) :
                         # print("z=",z)
                         w = 2 # 重新初始化 w，思考一下为什么要初始化？
-                        while w < 229 :
+                        while w < 300 :
                             if is_prime(w) :                  
                                 if w + x + y == 234 :
                                     print("="*10)
