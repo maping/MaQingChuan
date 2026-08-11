@@ -135,7 +135,7 @@ w-y= 150
 优化程序
 ```python
 # 循环遍历各个变量
-while x < 229 :
+while x <= 229 :
     if is_prime(x) :
         y = 2 # 重新初始化 y，思考一下为什么要初始化？
         while y < 50 :
