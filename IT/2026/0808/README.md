@@ -132,6 +132,29 @@ w-y= 150
 ```
 >说明：这里没有增加其它的这些数都是不同的质数判断，是因为只加`z != y` 已经得出唯一正确答案了。
 
+优化程序
+```python
+# 循环遍历各个变量
+while x <= 229 :
+    if is_prime(x) :
+        y = 2 # 重新初始化 y，思考一下为什么要初始化？
+        while y < 50 :
+            w = 234 - x - y                            
+            if is_prime(y) and is_prime(x+y) and is_prime(w) :
+                z = 2 # 重新初始化 z，思考一下为什么要初始化？              
+                while z < 50 and z != y : # 思考一下为什么要加 z != y
+                    if is_prime(z) and is_prime(x+z) and is_prime(234+z) and is_prime(234-z) :
+                        print("="*10)
+                        print("x = ",x)
+                        print("y = ",y)
+                        print("z = ",z)
+                        print("w = ",w)
+                        print("w-y = ",w-y)                                    
+                    z += 1
+            y += 1
+    x += 1
+```
+
 # 2. 列表
 
 ## 2.1 [EMS 项目-添加员工](https://www.bilibili.com/video/BV1hW41197sB?p=65)
