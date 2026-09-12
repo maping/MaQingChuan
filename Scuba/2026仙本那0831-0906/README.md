@@ -33,7 +33,9 @@
 ========================================================================================
 
 酒店名字：SHORELINE GUESTHOUSE
+
 Address: No SN 0218, Bandar Seafront, New Township Resort,91308 Semporna Sabah Malaysia
+
 State : Sabah , City : Semporna , Postcode : 91308
 
 ========================================================================================
